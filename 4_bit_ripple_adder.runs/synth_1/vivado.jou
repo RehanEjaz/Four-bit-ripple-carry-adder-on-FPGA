@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Feb  3 23:09:33 2022
+# Process ID: 26961
+# Current directory: /home/rehan/MERL/FPGA_EMU/4_bit_ripple_adder/4_bit_ripple_adder.runs/synth_1
+# Command line: vivado -log four_bit_ripple_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source four_bit_ripple_adder.tcl
+# Log file: /home/rehan/MERL/FPGA_EMU/4_bit_ripple_adder/4_bit_ripple_adder.runs/synth_1/four_bit_ripple_adder.vds
+# Journal file: /home/rehan/MERL/FPGA_EMU/4_bit_ripple_adder/4_bit_ripple_adder.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source four_bit_ripple_adder.tcl -notrace
